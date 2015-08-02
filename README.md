@@ -1,7 +1,7 @@
 JavaScript Radio [Client]
 =========================
 
-# User Script: <a href='grantsommer.com'>No Userscript Yet [Website]</a>
+User Script: <a href='grantsommer.com'>No Userscript Yet [Website]</a>
 
 
 ==================
